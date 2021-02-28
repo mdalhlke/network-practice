@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datawebserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdalhlke/network-practice.git"
+  },
+  "author": "Maya Dahlke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdalhlke/network-practice/issues"
+  },
+  "homepage": "https://github.com/mdalhlke/network-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.3"
+  }
+}
