@@ -1,6 +1,5 @@
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
-debugger;
 const socket = new WebSocket(`ws://${location.hostname}:50001`);
 
 canvas.addEventListener('mousemove', (e) => {
